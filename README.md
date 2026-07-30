@@ -1,6 +1,3 @@
-Here is a complete, well-structured README.md template you can copy and paste directly into your GitHub repository. It includes a daily log section so you can easily track your progress and showcase your consistency to anyone who visits your profile.
-
-Markdown
 # ☸️ Kubernetes Practice & Daily Use Cases
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
