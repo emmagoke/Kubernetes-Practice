@@ -41,9 +41,11 @@ kind: Service
 metadata:
   name: mongo-service
 spec:
+  type: NodePort  # making this service external service
   selectors:
     app: mongo
   ports:
   - protocol: TCP
     port: 3000
     targetPort: 3000
+    nodePort: 30100
