@@ -15,3 +15,13 @@ This repository is my personal sandbox and daily log for mastering Kubernetes. E
 - Document practical solutions to common infrastructure challenges.
 
 ---
+
+## 📁 Repository Structure
+The repository is organized by core Kubernetes concepts and specific use cases:
+
+* `01-pods-and-deployments/` - Basic workloads, replica sets, and update strategies.
+<!-- * `02-networking-and-services/` - ClusterIP, NodePort, LoadBalancers, and Ingress. -->
+<!-- * `03-config-and-secrets/` - Managing application environments and sensitive data. -->
+<!-- * `04-storage-and-stateful/` - PersistentVolumes (PV), PersistentVolumeClaims (PVC), and StatefulSets. -->
+<!-- * `05-security-and-rbac/` - ServiceAccounts, Roles, RoleBindings, and Security Contexts. -->
+<!-- * `06-helm-and-kustomize/` - Package management and templating. -->
