@@ -31,5 +31,5 @@ spec:
     image: busybox:1.36
     command: ["sh", "-c", "tail -f /dev/null"]
     volumeMounts:
-    - name: log
+    - name: logs
       mountPath: /var/log/shared
